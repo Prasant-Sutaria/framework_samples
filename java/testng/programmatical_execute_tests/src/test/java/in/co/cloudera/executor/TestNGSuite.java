@@ -1,12 +1,10 @@
-package in.co.cloudera.executor;
+package test.java.in.co.cloudera.executor.executor;
 
 import org.testng.TestNG;
-import org.testng.xml.XmlPackage;
 import org.testng.xml.XmlSuite;
 import org.testng.xml.XmlTest;
 
 import java.util.ArrayList;
-import java.util.LinkedList;
 import java.util.List;
 
 public class TestNGSuite {

@@ -1,8 +1,9 @@
-package in.co.cloudera.executor;
+package in.co.cloudera.executor.executor;
 
 import org.testng.xml.XmlPackage;
 import org.testng.xml.XmlSuite;
 import org.testng.xml.XmlTest;
+import test.java.in.co.cloudera.executor.CLIParameters;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

@@ -1,4 +1,6 @@
-package in.co.cloudera.executor;
+package test.java.in.co.cloudera.executor.executor;
+
+import test.java.in.co.cloudera.executor.CLIParameters;
 
 public class CLIUtils {
 

@@ -1,4 +1,4 @@
-package in.co.cloudera.executor;
+package test.java.in.co.cloudera.executor.executor;
 
 public class TestsExecutor {
     public static void main(String[] commandLineArgs) {
